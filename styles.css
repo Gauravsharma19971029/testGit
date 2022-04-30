@@ -1,0 +1,21 @@
+.main-content{
+    min-height: 1000px;
+    height: 100%;
+    width: 90%;
+    display: grid;
+    grid-template-columns: 300px 700px;
+    margin: auto;
+}
+
+.left-section{
+    width: 300px;
+    background-color: brown;
+    min-height: 1000px;
+}
+
+.right-section{
+    width: 700px;
+    background-color: rgb(42, 165, 120);
+    min-height: 1000px;
+
+}
